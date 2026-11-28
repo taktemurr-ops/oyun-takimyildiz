@@ -16,7 +16,7 @@ dependencies:
   ozgun_motoru:
     git:
       url: https://github.com/taktemurr-ops/ozgun-motoru
-      ref: 9cadda4806d432ed933c69e018da0905607691da
+      ref: 71ba5dec37b29e51d795fb71dfbfeff01dc17725
 
 dev_dependencies:
   flutter_test:
